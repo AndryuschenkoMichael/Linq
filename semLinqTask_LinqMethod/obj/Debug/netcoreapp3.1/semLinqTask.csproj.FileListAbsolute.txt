@@ -1,0 +1,26 @@
+C:\Users\Misha\Downloads\Telegram Desktop\30.01.21\30.01.21\semLinqTask\bin\Debug\netcoreapp3.1\semLinqTask.exe
+C:\Users\Misha\Downloads\Telegram Desktop\30.01.21\30.01.21\semLinqTask\bin\Debug\netcoreapp3.1\semLinqTask.deps.json
+C:\Users\Misha\Downloads\Telegram Desktop\30.01.21\30.01.21\semLinqTask\bin\Debug\netcoreapp3.1\semLinqTask.runtimeconfig.json
+C:\Users\Misha\Downloads\Telegram Desktop\30.01.21\30.01.21\semLinqTask\bin\Debug\netcoreapp3.1\semLinqTask.runtimeconfig.dev.json
+C:\Users\Misha\Downloads\Telegram Desktop\30.01.21\30.01.21\semLinqTask\bin\Debug\netcoreapp3.1\semLinqTask.dll
+C:\Users\Misha\Downloads\Telegram Desktop\30.01.21\30.01.21\semLinqTask\bin\Debug\netcoreapp3.1\semLinqTask.pdb
+C:\Users\Misha\Downloads\Telegram Desktop\30.01.21\30.01.21\semLinqTask\obj\Debug\netcoreapp3.1\semLinqTask.csprojAssemblyReference.cache
+C:\Users\Misha\Downloads\Telegram Desktop\30.01.21\30.01.21\semLinqTask\obj\Debug\netcoreapp3.1\semLinqTask.AssemblyInfoInputs.cache
+C:\Users\Misha\Downloads\Telegram Desktop\30.01.21\30.01.21\semLinqTask\obj\Debug\netcoreapp3.1\semLinqTask.AssemblyInfo.cs
+C:\Users\Misha\Downloads\Telegram Desktop\30.01.21\30.01.21\semLinqTask\obj\Debug\netcoreapp3.1\semLinqTask.csproj.CoreCompileInputs.cache
+C:\Users\Misha\Downloads\Telegram Desktop\30.01.21\30.01.21\semLinqTask\obj\Debug\netcoreapp3.1\semLinqTask.dll
+C:\Users\Misha\Downloads\Telegram Desktop\30.01.21\30.01.21\semLinqTask\obj\Debug\netcoreapp3.1\semLinqTask.pdb
+C:\Users\Misha\Downloads\Telegram Desktop\30.01.21\30.01.21\semLinqTask\obj\Debug\netcoreapp3.1\semLinqTask.genruntimeconfig.cache
+C:\Users\Misha\RiderProjects\Linq\semLinqTask\bin\Debug\netcoreapp3.1\semLinqTask.exe
+C:\Users\Misha\RiderProjects\Linq\semLinqTask\bin\Debug\netcoreapp3.1\semLinqTask.deps.json
+C:\Users\Misha\RiderProjects\Linq\semLinqTask\bin\Debug\netcoreapp3.1\semLinqTask.runtimeconfig.json
+C:\Users\Misha\RiderProjects\Linq\semLinqTask\bin\Debug\netcoreapp3.1\semLinqTask.runtimeconfig.dev.json
+C:\Users\Misha\RiderProjects\Linq\semLinqTask\bin\Debug\netcoreapp3.1\semLinqTask.dll
+C:\Users\Misha\RiderProjects\Linq\semLinqTask\bin\Debug\netcoreapp3.1\semLinqTask.pdb
+C:\Users\Misha\RiderProjects\Linq\semLinqTask\obj\Debug\netcoreapp3.1\semLinqTask.csprojAssemblyReference.cache
+C:\Users\Misha\RiderProjects\Linq\semLinqTask\obj\Debug\netcoreapp3.1\semLinqTask.AssemblyInfoInputs.cache
+C:\Users\Misha\RiderProjects\Linq\semLinqTask\obj\Debug\netcoreapp3.1\semLinqTask.AssemblyInfo.cs
+C:\Users\Misha\RiderProjects\Linq\semLinqTask\obj\Debug\netcoreapp3.1\semLinqTask.csproj.CoreCompileInputs.cache
+C:\Users\Misha\RiderProjects\Linq\semLinqTask\obj\Debug\netcoreapp3.1\semLinqTask.dll
+C:\Users\Misha\RiderProjects\Linq\semLinqTask\obj\Debug\netcoreapp3.1\semLinqTask.pdb
+C:\Users\Misha\RiderProjects\Linq\semLinqTask\obj\Debug\netcoreapp3.1\semLinqTask.genruntimeconfig.cache
